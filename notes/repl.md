@@ -1,0 +1,1 @@
+* You can view the docs for a function with `(doc some-function)` or even the  source code `(source some-function)`
