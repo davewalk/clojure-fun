@@ -1,0 +1,3 @@
+[submodule "koans"]
+	path = koans
+	url = git://github.com/functional-koans/clojure-koans.git
