@@ -1,0 +1,11 @@
+closure-koans/bin
+closure-koans/classes
+closure-koans/lib
+closure-koans/releases
+closure-koans/target
+*.jar
+.DS_Store
+.lein-deps-sum
+.lein-plugins
+.lein-repl-history
+*.sublime-*
